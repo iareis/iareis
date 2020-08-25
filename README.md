@@ -1,4 +1,5 @@
-### Hi there 👋
+### <p>Meu nome é <b>Iuri Albuquerque Reis</b>, gaúcho de Porto Alegre/RS morando em Florianópolis/SC.</p>
+    <p>Iniciando estudos de Programador WEB pela IFTO - Instituto Federal do Tocantins com ênfaze em HTML, CSS, JAVA SCRIPT, PHP e MY SQL.</p> 👋
 
 <!--
 **iareis/iareis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
