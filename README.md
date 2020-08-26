@@ -2,7 +2,7 @@
 ### Iniciando estudos de Programador WEB pela IFTO - Instituto Federal do Tocantins com ênfaze em HTML, CSS, JAVA SCRIPT, PHP e MY SQL. 🖖👍
 
 ### Siga-me:
-### || <a href="http://strava.com/athletes/3749009/badge">STRAVA</a> || <a href="https://www.instagram.com/iareis/">INSTAGRAM</A> || <a href="https://www.linkedin.com/feed/">LINKEDIN</A> || <a href="https://twitter.com/iareis">TWITTER</A> || <a href="https://www.wikiaves.com.br/midias.php?t=u&u=14010">WIKIAVES</A> || <a href="https://www.skoob.com.br/usuario/1193489">SKOOB</A> ||
+### || <a href="https://www.strava.com/athletes/3749009">STRAVA</a> || <a href="https://www.instagram.com/iareis/">INSTAGRAM</A> || <a href="https://www.linkedin.com/feed/">LINKEDIN</A> || <a href="https://twitter.com/iareis">TWITTER</A> || <a href="https://www.wikiaves.com.br/midias.php?t=u&u=14010">WIKIAVES</A> || <a href="https://www.skoob.com.br/usuario/1193489">SKOOB</A> ||
 <!--
 **iareis/iareis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
