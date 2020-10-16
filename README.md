@@ -1,4 +1,4 @@
-### Sou gaúcho de Porto Alegre/RS morando em Florianópolis/SC.
+### Natural de Porto Alegre/RS morando em Florianópolis/SC.
 ### Iniciando estudos de Programador WEB pela IFTO - Instituto Federal do Tocantins com ênfaze em HTML, CSS, JAVA SCRIPT, PHP e MY SQL. 🖖👍
 
 ### Siga-me:
