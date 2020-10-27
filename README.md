@@ -2,7 +2,7 @@
 ### Iniciando estudos de Programador WEB pela IFTO - Instituto Federal do Tocantins com ênfaze em HTML, CSS, JAVA SCRIPT, PHP e MY SQL. 🖖👍
 
 ### Siga-me:
-### || <a href="https://www.linkedin.com/feed/">LINKEDIN</A> || <a href="https://twitter.com/iareis">TWITTER</A> || <a href="https://www.wikiaves.com.br/midias.php?t=u&u=14010">WIKIAVES</A> || 
+### || [LINKEDIN](https://www.linkedin.com/in/iuri-albuquerque-reis-7b599253/) || [TWITTER](https://twitter.com/iareis) || [WIKIAVES](https://www.wikiaves.com.br/midias.php?t=u&u=14010) ||
 
 ![](https://github-readme-stats.vercel.app/api?username=iareis)
 
