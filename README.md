@@ -1,10 +1,14 @@
 ### Natural de Porto Alegre/RS morando em Florianópolis/SC.
+
 ### Iniciando estudos de Programador WEB pela IFTO - Instituto Federal do Tocantins com ênfaze em HTML, CSS, JAVA SCRIPT, PHP e MY SQL. 🖖👍
 
 ### Siga-me:
+
 ### || [LINKEDIN](https://www.linkedin.com/in/iuri-albuquerque-reis-7b599253/) || [TWITTER](https://twitter.com/iareis) || [WIKIAVES](https://www.wikiaves.com.br/midias.php?t=u&u=14010) ||
 
 ![](https://github-readme-stats.vercel.app/api?username=iareis)
+
+<img align="right" alt="GIF" src="https://github.com/iareis/iareis/blob/master/img/code.gif?raw=true" width="500">
 
 <!--
 **iareis/iareis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
