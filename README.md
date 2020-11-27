@@ -8,7 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=iareis)
 
-<img align="right" alt="GIF" src="https://github.com/iareis/iareis/blob/master/img/code.gif?raw=true" width="500">
+<img align="left" alt="GIF" src="https://github.com/iareis/iareis/blob/master/img/code.gif?raw=true" width="300" alt="WORK'S DEV">
 
 <!--
 **iareis/iareis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
