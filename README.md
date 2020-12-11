@@ -1,7 +1,7 @@
 ### Natural de Porto Alegre/RS morando em Florianópolis/SC.
 ### Marido da Marcia e pai da Ísis.
 
-### Iniciando estudos de Programador WEB pela IFTO - Instituto Federal do Tocantins com ênfaze em HTML, CSS, JAVA SCRIPT, PHP e MY SQL. 🖖👍
+### Em constante aperfeiçoamento em HTML, CSS, JAVA SCRIPT, PHP e MY SQL. 🖖👍
 
 ### Siga-me:
 
