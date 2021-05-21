@@ -7,7 +7,9 @@
 
 ### || [LINKEDIN](https://www.linkedin.com/in/iuri-albuquerque-reis-7b599253/) || [TWITTER](https://twitter.com/iareis) || [WIKIAVES](https://www.wikiaves.com.br/midias.php?t=u&u=14010) ||
 
-![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1522?logoColor=dark%26project=%26recentMS=0%26showProject=true) [![wakatime](https://wakatime.com/badge/github/iareis/SQL-e-PL-SQL---ORACLE.svg)](https://wakatime.com/badge/github/iareis/SQL-e-PL-SQL---ORACLE)
+![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1522?logoColor=dark%26project=%26recentMS=0%26showProject=true) 
+
+[![wakatime](https://wakatime.com/badge/github/iareis/links.svg)](https://wakatime.com/badge/github/iareis/links)
 
 ![](https://github-readme-stats.vercel.app/api?username=iareis)
 
